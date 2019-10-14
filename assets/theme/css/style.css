@@ -536,7 +536,7 @@ nav .mbr-section-btn {
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1375px) {
   .menu .navbar-nav.nav-dropdown {
     display: -webkit-flex;
   }
