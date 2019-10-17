@@ -54,7 +54,7 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  /* font-size: 1rem; */
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
@@ -1560,6 +1560,7 @@ section.lazy-placeholder:after {
 }
 .cid-rCW3BVdRc3 .panel-item {
   background: #ffffff;
+  border-radius: 25px;
 }
 .cid-rCW3BVdRc3 .card {
   word-wrap: break-word;
